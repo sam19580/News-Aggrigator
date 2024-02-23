@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "abc",
+      "password": "kkk",
+      "preferences": ["sports"]
+    },
+    { "id": 2, "username": "abdc", "password": "abcddd", "preferences": [] },
+
+    { "id": 3, "username": "abdddddc", "password": "abcddd", "preferences": [] }
+    
+  ]
+}
